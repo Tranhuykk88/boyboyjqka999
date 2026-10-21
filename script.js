@@ -1,17 +1,14 @@
 const repoUrl = new URL("./", window.location.href).href;
-const sileoUrl = `sileo://source/${repoUrl}`;
-const addButton = document.querySelector("#add-sileo");
 const copyButton = document.querySelector("#copy-repo");
 const toast = document.querySelector("#toast");
-
-addButton.href = sileoUrl;
 
 copyButton.addEventListener("click", async () => {
   try {
     await navigator.clipboard.writeText(repoUrl);
-    toast.textContent = "Đã sao chép link repo";
+    toast.textContent = "Đã sao chép — mở Sileo, chọn Sources rồi nhấn +";
   } catch {
-    toast.textContent = repoUrl;
+    window.prompt("Sao chép link này rồi dán vào Sileo:", repoUrl);
+    toast.textContent = "Hãy sao chép link repo trong ô vừa mở";
   }
   toast.classList.add("show");
   window.setTimeout(() => toast.classList.remove("show"), 2200);
