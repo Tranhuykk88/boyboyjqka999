@@ -27,7 +27,7 @@ Tai toan bo noi dung thu muc nay len thu muc goc cua website. Cac URL sau phai t
 - `/debs/Crane_An_cu_to.deb`
 - `/debs/Vcam-BoyBoyJQKA-RootHide.deb`
 - `/downloads/VUTKM-APP.exe`
-- `/downloads/EXTENSION.zip`
+- `/downloads/Ext-BOYBOYJQKA.zip`
 
 Nut `THEM VAO SILEO` tu dong su dung ten mien hien tai, khong can sua ma khi doi domain.
 
