@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">VCAM virtual camera</title>
+  <rect x="16" y="16" width="188" height="188" fill="#d7c9ad"/>
+  <rect x="5" y="5" width="188" height="188" fill="#fffaf0" stroke="#263a31" stroke-width="6"/>
+  <rect x="36" y="60" width="105" height="98" fill="#f1e7d5" stroke="#263a31" stroke-width="7"/>
+  <path d="m141 89 38-22v84l-38-22z" fill="#e5482d" stroke="#263a31" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="88" cy="109" r="27" fill="#fffaf0" stroke="#263a31" stroke-width="7"/>
+  <circle cx="88" cy="109" r="10" fill="#e5482d"/>
+  <path d="M35 42h37" stroke="#e5482d" stroke-width="7"/>
+</svg>

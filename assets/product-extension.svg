@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">Browser extension</title>
+  <rect x="16" y="16" width="188" height="188" fill="#d7c9ad"/>
+  <rect x="5" y="5" width="188" height="188" fill="#fffaf0" stroke="#263a31" stroke-width="6"/>
+  <path d="M48 52h42c-1 5-3 10-3 15 0 13 10 23 23 23s23-10 23-23c0-5-2-10-4-15h32v38c-4-2-9-3-14-3-13 0-23 10-23 23s10 23 23 23c5 0 10-1 14-4v34H48v-35c4 2 9 4 14 4 13 0 23-11 23-24S75 85 62 85c-5 0-10 1-14 4z" fill="#f1e7d5" stroke="#263a31" stroke-width="7" stroke-linejoin="round"/>
+  <circle cx="109" cy="110" r="20" fill="#e5482d"/>
+  <path d="M109 98v24M97 110h24" stroke="#fff" stroke-width="5"/>
+</svg>

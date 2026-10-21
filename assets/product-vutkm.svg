@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-labelledby="title">
+  <title id="title">VUTKM desktop application</title>
+  <rect x="16" y="16" width="188" height="188" fill="#d7c9ad"/>
+  <rect x="5" y="5" width="188" height="188" fill="#fffaf0" stroke="#263a31" stroke-width="6"/>
+  <rect x="43" y="49" width="112" height="78" fill="#f1e7d5" stroke="#263a31" stroke-width="7"/>
+  <path d="M70 151h58M99 127v24" fill="none" stroke="#263a31" stroke-width="7" stroke-linecap="square"/>
+  <path d="m87 70 31 18-31 18z" fill="#e5482d"/>
+  <rect x="150" y="144" width="28" height="28" fill="#e5482d"/>
+  <path d="M157 158h14M164 151v14" stroke="#fff" stroke-width="4"/>
+</svg>
