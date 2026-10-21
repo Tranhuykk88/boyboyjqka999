@@ -1,0 +1,17 @@
+Origin: Vcam - BoyBoyJQKA
+Label: Vcam - BoyBoyJQKA
+Suite: stable
+Version: 1.0
+Codename: boyboyjqka
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Official Sileo repository by BOYBOYJQKA
+Date: Wed, 21 Oct 2026 00:27:25 +0000
+MD5Sum:
+ 41e57918aa952cc44c6c3af5ceabb4f8             2218 Packages
+ a689db88493e4993c993bb9c8942c71e             1143 Packages.gz
+ 859a337cd72ad84f92ebb27ab2d67320             1259 Packages.bz2
+SHA256:
+ d0d8838b114d900289ada07eccc38140c0883eddc6348eba6d6b5ff879996223             2218 Packages
+ 02f27e555c98b0cf698232ff3702bbe74aa6fdd4d84a96711e1b9623dc7c1e73             1143 Packages.gz
+ e339c0c3ec21658f2146e18ea1d77145b3b370f03176795cbf59d3c634d5a86b             1259 Packages.bz2
