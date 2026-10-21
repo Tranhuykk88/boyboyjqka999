@@ -2,9 +2,9 @@
 
 Website va APT repository tinh danh cho GitHub Pages, Cloudflare Pages hoac web hosting thong thuong.
 
-Dia chi GitHub Pages du kien: `https://boyboyjqka999.github.io/`
+Dia chi GitHub Pages: `https://tranhuykk88.github.io/boyboyjqka999/`
 
-Ten repository bat buoc: `boyboyjqka999.github.io`
+Ten repository: `boyboyjqka999`
 
 ## Cap nhat repo
 
@@ -35,4 +35,4 @@ Nut `THEM VAO SILEO` tu dong su dung ten mien hien tai, khong can sua ma khi doi
 - GitHub Pages phai duoc deploy tu root cua thu muc nay.
 - Sau moi lan thay `.deb`, bat buoc chay lai `update-repo.sh` va tai cac file index moi len hosting.
 - Repo hien chua ky GPG; Sileo thuong van doc duoc repo jailbreak dang flat nay.
-- GitHub Pages phai thuoc tai khoan hoac organization co ten chinh xac `boyboyjqka999`.
+- Website dang duoc trien khai bang GitHub Pages tren tai khoan `Tranhuykk88`.
