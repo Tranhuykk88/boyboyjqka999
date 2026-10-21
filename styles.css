@@ -25,11 +25,11 @@ body { min-height: 100vh; margin: 0; color: var(--forest); background: var(--pap
 .tag { margin: 0 0 17px; color: var(--red); font: 600 10px/1.4 "IBM Plex Mono", monospace; letter-spacing: .2em; }
 .product-card h3 { margin: 0; font: 400 clamp(27px, 2.6vw, 39px)/1.05 "Archivo Black", sans-serif; letter-spacing: -.035em; }
 .product-card > p:not(.tag) { margin: 22px 0 28px; color: var(--muted); line-height: 1.65; font-size: 15px; }
-.primary-action, .disabled-action { min-height: 74px; margin-top: auto; padding: 0 22px; display: flex; align-items: center; justify-content: space-between; font: 800 12px "Manrope", sans-serif; letter-spacing: .1em; }
-.primary-action { width: 100%; border: 0; color: white; background: var(--forest); text-align: left; cursor: pointer; }
+.primary-action, .disabled-action { min-height: 74px; margin-top: auto; padding: 0 22px; display: flex; align-items: center; justify-content: space-between; font-size: 12px; font-weight: 800; letter-spacing: .1em; }
+.primary-action { color: white; background: var(--forest); text-decoration: none; }
 .primary-action:hover { background: var(--red); }
 .disabled-action { color: #968b79; background: #f1e7d5; border: 1px solid var(--line); }
-.sileo-hint { margin: 13px 0 0 !important; color: var(--forest) !important; font-size: 10px !important; line-height: 1.5 !important; text-align: center; }
+.copy-action { margin-top: 13px; padding: 7px; border: 0; color: var(--forest); background: none; font: 800 10px "Manrope", sans-serif; letter-spacing: .1em; cursor: pointer; }
 .toast { position: fixed; left: 50%; bottom: 25px; z-index: 20; padding: 13px 20px; color: white; background: var(--forest); opacity: 0; pointer-events: none; transform: translate(-50%, 25px); transition: .25s; font-size: 12px; }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
 
