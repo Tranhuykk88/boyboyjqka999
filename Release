@@ -6,12 +6,12 @@ Codename: boyboyjqka
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Official Sileo repository by BOYBOYJQKA
-Date: Wed, 21 Oct 2026 00:27:25 +0000
+Date: Wed, 21 Oct 2026 11:58:02 +0000
 MD5Sum:
- 41e57918aa952cc44c6c3af5ceabb4f8             2218 Packages
- a689db88493e4993c993bb9c8942c71e             1143 Packages.gz
- 859a337cd72ad84f92ebb27ab2d67320             1259 Packages.bz2
+ 073d9884e3321e064493aa49f3b100a3             1693 Packages
+ 42d424a9cb84003162594ea3e27a4286              935 Packages.gz
+ 12247d233c1623fdcd934794a7fefcc1             1038 Packages.bz2
 SHA256:
- d0d8838b114d900289ada07eccc38140c0883eddc6348eba6d6b5ff879996223             2218 Packages
- 02f27e555c98b0cf698232ff3702bbe74aa6fdd4d84a96711e1b9623dc7c1e73             1143 Packages.gz
- e339c0c3ec21658f2146e18ea1d77145b3b370f03176795cbf59d3c634d5a86b             1259 Packages.bz2
+ f944674124be573953d94bda1ed5d99063a5bf2316da929e0471bd4e39d93ad9             1693 Packages
+ 0e23574432cbf2a17e49266db1ffb80b6db5f158581678b1347fc5969803e040              935 Packages.gz
+ 76a885df99a537248ae784f470485bb37f880d8d6322fba41c18cde2c9705bd4             1038 Packages.bz2

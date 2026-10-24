@@ -1,0 +1,22 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/Release"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+
+[[headers]]
+  for = "/Packages"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+
+[[headers]]
+  for = "/Packages.gz"
+  [headers.values]
+    Content-Type = "application/gzip"
+
+[[headers]]
+  for = "/Packages.bz2"
+  [headers.values]
+    Content-Type = "application/x-bzip2"

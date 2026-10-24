@@ -2,7 +2,7 @@
 
 Website va APT repository tinh danh cho GitHub Pages, Cloudflare Pages hoac web hosting thong thuong.
 
-Dia chi GitHub Pages: `https://tranhuykk88.github.io/boyboyjqka999/`
+Dia chi Netlify: `https://boyboyjqka999.netlify.app/`
 
 Ten repository: `boyboyjqka999`
 
@@ -23,7 +23,6 @@ Tai toan bo noi dung thu muc nay len thu muc goc cua website. Cac URL sau phai t
 - `/Release`
 - `/Packages`
 - `/Packages.gz`
-- `/debs/An_Cu_To_v3.deb`
 - `/debs/Crane_An_cu_to.deb`
 - `/debs/Vcam-BoyBoyJQKA-RootHide.deb`
 - `/downloads/VUTKM-APP.exe`
@@ -37,4 +36,4 @@ Nut `THEM VAO SILEO` tu dong su dung ten mien hien tai, khong can sua ma khi doi
 - GitHub Pages phai duoc deploy tu root cua thu muc nay.
 - Sau moi lan thay `.deb`, bat buoc chay lai `update-repo.sh` va tai cac file index moi len hosting.
 - Repo hien chua ky GPG; Sileo thuong van doc duoc repo jailbreak dang flat nay.
-- Website dang duoc trien khai bang GitHub Pages tren tai khoan `Tranhuykk88`.
+- Website production duoc deploy truc tiep len Netlify, khong phu thuoc GitHub.
